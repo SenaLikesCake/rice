@@ -10,8 +10,10 @@ Pink and bubbly rice I made
 - waybar
 - wofi
 - adios
+- iwd
+- iwgtk
 
 # ToDo
 
-- Network Manager
 - install.sh
+- screenshots

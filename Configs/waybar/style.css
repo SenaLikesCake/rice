@@ -39,7 +39,8 @@ window#waybar {
   margin-right: 6px;
 }
 
-#pulseaudio:hover {
+#pulseaudio:hover,
+#network:hover {
   background-image: linear-gradient(to bottom, #b0cfff 100%);
   color: #141216;
   transition-duration: 120ms;

@@ -16,8 +16,8 @@
     "custom/applauncher"
   ],
   "modules-right": [
-    "network",
     "battery",
+    "network",
     "pulseaudio",
     "tray",
     "custom/power"
@@ -55,7 +55,8 @@
     "format-ethernet": " {bandwidthDownBits}",
     "format-disconnected": "󰤮 No Network",
     "interval": 5,
-    "tooltip": false
+    "tooltip": false,
+    "on-click": "iwgtk"
   },
   "pulseaudio": {
     "scroll-step": 5,
